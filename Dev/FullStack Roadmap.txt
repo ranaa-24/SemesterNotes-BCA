@@ -1,0 +1,105 @@
+https://github.com/thehackingschool/fullstack-roadmap
+https://github.com/Meshugah/FullStack-Roadmap
+good one : https://github.com/mesbaulislamrony/fullstack-roadmap
+resources:https://github.com/aamirjarda/Full-Stack-Developer-Roadmap?tab=readme-ov-file
+
+Pre Requisites
+Figma & Canva
+Linux Bash
+Markdown
+Git & Git Bash
+
+Frontend
+HTML & CSS Basics
+Bootstrap
+Tailwind CSS
+JavaScript
+REACT.js Framework
+Material UI
+Three.js
+
+Backend
+Python
+Flask
+Django
+REST API
+Node.js
+NEXT.js
+
+Database
+MySQL & SQLite
+PostgreSQL
+MongoDB
+Firebase
+
+software engineering concepts 
+
+Deployment
+Github Workflows
+Netlify / Vercel
+DigitalOcean / Railways
+Docker + Kubernetes
+AWS Services & Cloud (https://www.youtube.com/playlist?list=PLOa-edppsqFn4MFr5KDqm0Y92d2nGyGgQ )
+
+
+// SWE 
+##System Design and Architecture:
+
+Design Patterns (e.g., Singleton, Factory, Observer)
+Microservices Architecture
+Scalability and Load Balancing
+Database Design (Normalization, ER Models, etc.)
+APIs (REST, GraphQL)
+
+##DevOps and CI/CD:
+
+Containerization (e.g., Docker)
+Orchestration (e.g., Kubernetes)
+Version Control Systems (e.g., Git)
+CI/CD Pipelines (e.g., Jenkins, GitHub Actions)
+Infrastructure as Code (e.g., Terraform, Ansible)
+
+##Cloud Computing:
+
+Cloud Providers (AWS, Azure, Google Cloud)
+Serverless Architectures (e.g., AWS Lambda)
+Storage Solutions (e.g., S3, Google Cloud Storage)
+Virtualization and Networking
+
+##Security:
+
+Web Security (e.g., OWASP Top Ten)
+Encryption and Cryptography
+Identity and Access Management (IAM)
+Secure Coding Practices
+
+##Data Engineering:
+
+Big Data Technologies (e.g., Hadoop, Spark)
+Data Warehousing (e.g., Snowflake, Redshift)
+ETL Tools (e.g., Apache NiFi, Talend)
+Streaming Data Processing (e.g., Apache Kafka)
+
+##Mobile Development:
+
+Native Development (e.g., Swift for iOS, Kotlin for Android)
+Cross-Platform Development (e.g., React Native, Flutter)
+
+##Testing and QA:
+
+Unit Testing (e.g., JUnit, Mocha)
+Integration Testing
+End-to-End Testing (e.g., Selenium, Cypress)
+Performance Testing (e.g., JMeter)
+
+##Networking Fundamentals:
+
+TCP/IP Protocols
+DNS, HTTP/HTTPS
+Load Balancing and CDN
+
+##Soft Skills:
+
+Agile Methodologies (e.g., Scrum, Kanban)
+Communication and Collaboration Tools (e.g., Slack, Jira)
+Problem Solving and Analytical Thinking
