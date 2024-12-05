@@ -51,7 +51,7 @@ Scalability and Load Balancing
 Database Design (Normalization, ER Models, etc.)
 APIs (REST, GraphQL)
 
-##DevOps and CI/CD:
+##DevOps and CI/CD: https://github.com/milanm/DevOps-Roadmap
 
 Containerization (e.g., Docker)
 Orchestration (e.g., Kubernetes)
